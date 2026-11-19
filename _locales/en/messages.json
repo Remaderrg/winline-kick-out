@@ -1,0 +1,11 @@
+{
+  "extension_name": {
+    "message": "Slay Kick Winline"
+  },
+  "extension_short_name": {
+    "message": "Kick Winline"
+  },
+  "extension_description": {
+    "message": "Blocks Winline image and video loading on slay-award.ru"
+  }
+}

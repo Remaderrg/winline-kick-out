@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "winline",
+      "resourceTypes": ["image", "media"],
+      "requestDomains": [
+        "slay-award.ru",
+        "www.slay-award.ru",
+        "static.slay-award.ru",
+        "media.slay-award.ru"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "/videos/hero",
+      "resourceTypes": ["media", "xmlhttprequest", "other"],
+      "requestDomains": [
+        "static.slay-award.ru",
+        "slay-award.ru",
+        "www.slay-award.ru"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "/_astro/hero-",
+      "resourceTypes": ["image"],
+      "requestDomains": [
+        "static.slay-award.ru",
+        "slay-award.ru",
+        "www.slay-award.ru"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "/_astro/photo-1.",
+      "resourceTypes": ["image"],
+      "requestDomains": [
+        "static.slay-award.ru",
+        "slay-award.ru",
+        "www.slay-award.ru"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "/_astro/new-ticker.",
+      "resourceTypes": ["image"],
+      "requestDomains": [
+        "static.slay-award.ru",
+        "slay-award.ru",
+        "www.slay-award.ru"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "/_astro/preloader.",
+      "resourceTypes": ["image"],
+      "requestDomains": [
+        "static.slay-award.ru",
+        "slay-award.ru",
+        "www.slay-award.ru"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "2024-media-poker",
+      "resourceTypes": ["image"],
+      "requestDomains": [
+        "static.slay-award.ru",
+        "slay-award.ru",
+        "www.slay-award.ru"
+      ]
+    }
+  }
+]
