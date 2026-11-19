@@ -47,6 +47,8 @@ try {
         '.git',
         '.gitignore',
         '.DS_Store',
+        '.vscode',
+        '.idea',
         '_metadata',
         'readme.md',
         'LICENSE'
