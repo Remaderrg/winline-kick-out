@@ -4,7 +4,7 @@
   "name": "__MSG_extension_name__",
   "short_name": "__MSG_extension_short_name__",
   "description": "__MSG_extension_description__",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwx3gnwzDwVqo4IZiOZZBGKVrV1OZ7NWnVx0ETmnIbugENJF7dpVkG/UzH0D157WlNkQyzT5kapWhIN0kc6Gjz7SNDpD4U3Xlc10oNgcNvvwhjhkcetSj+8Hx+eqJdrntrXp8p1yeOABT3x9OzQBRG5o0kVqYuR1RypmHAfmFrPYkEUpHyCa6IT4jD8OSC/EMI6NJpV7JuPX3BWKTrZaGUmdVv519aEhZPlY6CrlQqTPdzV/4Tz9Dbw5kWYJuDgCLLW/smIlEQGzMmpsDR807poFjwv7bsjwJxmsPh1jhkmxquopTQJjVNvKUVxLC4a+2VLVDXMHyHewbpiQtQMprHwIDAQAB",
 
   "default_locale": "ru",
