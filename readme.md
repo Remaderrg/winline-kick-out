@@ -23,15 +23,6 @@ pwsh -File generate.ps1
 
 - Блокирует сетевые запросы к ассетам Winline / hero / preloader-logo и др. (`rules.json`)
 
-## Chrome Web Store
-
-Готовые ассеты в `builds-for-store/chrome-store/`:
-
-- `icon-128.png` — значок магазина 128×128
-- `screenshot-1280x800.png` — скриншот 1280×800
-
-Исходники логотипов SLAY — в `builds-for-store/assets/`.
-
 ## Лицензия
 
 MIT — см. [LICENSE](LICENSE).
