@@ -3,7 +3,7 @@ _metadata/
 *.crx
 *.pem
 
-# Store zip builds (картинки chrome-store/ и assets/ — в репо)
+# Store zip builds
 builds-for-store/
 
 # OS / IDE
